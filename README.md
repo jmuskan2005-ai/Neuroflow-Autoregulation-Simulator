@@ -24,7 +24,6 @@ Uses curve behavior and limits to show stable vs unstable blood-flow zones
 NeuroFlow-Autoregulation-Simulator/
 │── neuroflow_simulator.py
 │── README.md
-│── requirements.txt
 
 # 📥 Requirements
 Make sure you have:
