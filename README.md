@@ -3,11 +3,11 @@ The NeuroFlow Autoregulation Simulator is a simple, math-based project that show
 This project is perfect for understanding the basics of cerebral autoregulation through a mix of biology, calculus, and visual simulation.
 
 # ✨ Features
-Simulates cerebral blood flow using a logistic autoregulation model
-Shows how vessels dilate and constrict as pressure changes
-Plots healthy vs stroke responses for easy comparison
-Simple and clean Python code (VS Code compatible)
-Great for biology, neuroscience, or calculus-based presentations
+- Simulates cerebral blood flow using a logistic autoregulation model
+- Shows how vessels dilate and constrict as pressure changes
+- Plots healthy vs stroke responses for easy comparison
+- Simple and clean Python code (VS Code compatible)
+- Great for biology, neuroscience, or calculus-based presentations
 
 # 🧠 What Autoregulation Means
 Your brain protects itself by keeping blood flow constant, no matter how your blood pressure fluctuates. Healthy brains do this very well. After a stroke, this ability becomes weaker.
@@ -26,12 +26,12 @@ NeuroFlow-Autoregulation-Simulator/
 │── README.md
 
 # 📥 Requirements
-Make sure you have:
+- Make sure you have:
  Python 3.7+
- These Python libraries:
+ - These Python libraries:
     numpy
     matplotlib
-Install them with:
+- Install them with:
 pip install numpy matplotlib
 
 # ▶ How to Run
@@ -41,16 +41,15 @@ python neuroflow_simulator.py
 3. A plot will appear comparing healthy and stroke autoregulation curves.
    
 # 📊 Example Output
-
-A clear graph showing how blood flow changes with pressure
-Two curves: Healthy (strong regulation) vs Stroke (weakened regulation)
+- A clear graph showing how blood flow changes with pressure
+- Two curves: Healthy (strong regulation) vs Stroke (weakened regulation)
 
 # 🎯 Target Users
-Biology & neuroscience students
-Math/calculus learners
-Medical project creators
-Anyone working on brain-based simulation mini-projects
+- Biology & neuroscience students
+- Math/calculus learners
+- Medical project creators
+- Anyone working on brain-based simulation mini-projects
 
 # 📘 Author
-Muskan Jha
-Reg. No.- 25BHI10054
+- Muskan Jha
+- Reg. No.- 25BHI10054
