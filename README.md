@@ -14,11 +14,11 @@ Your brain protects itself by keeping blood flow constant, no matter how your bl
 This simulator visualizes this difference in a clear, easy-to-understand plot.
 
 # 🧮 Maths Used
-Uses a logistic differential model to describe how cerebral blood flow changes with pressure
-Applies derivatives to show how fast vessels react (rate of dilation/constriction)
-Identifies critical pressure points using slope analysis
-Compares two parameter sets (healthy vs stroke) to show weakened autoregulation
-Uses curve behavior and limits to show stable vs unstable blood-flow zones
+- Uses a logistic differential model to describe how cerebral blood flow changes with pressure
+- Applies derivatives to show how fast vessels react (rate of dilation/constriction)
+- Identifies critical pressure points using slope analysis
+- Compares two parameter sets (healthy vs stroke) to show weakened autoregulation
+- Uses curve behavior and limits to show stable vs unstable blood-flow zones
 
 # 📂 Project Structure
 NeuroFlow-Autoregulation-Simulator/
